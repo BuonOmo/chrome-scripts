@@ -1,0 +1,11 @@
+.column:first-of-type::after {
+	content: 'shift+click or h to hesitate';
+	display: block;
+	text-align: center;
+}
+
+.hesitating .column:first-of-type::after {
+	content: 'hesitate mode on';
+	display: block;
+	text-align: center;
+}

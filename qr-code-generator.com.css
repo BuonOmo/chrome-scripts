@@ -1,0 +1,7 @@
+.generator-preview__wrapper {
+	cursor: pointer;
+}
+
+.generator-preview__wrapper::before {
+	content: 'click to download svg'
+}
