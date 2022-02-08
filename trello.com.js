@@ -6,7 +6,7 @@
 
 (function() {
 	'use strict';
-	const storageKey = "CountByAssignee"
+	const storageKey = 'CountByAssignee'
 	const currentIndex = +(localStorage[storageKey] || 2)
 
 	waitFor('.js-list:nth-child(3)').then(() => {
