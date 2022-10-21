@@ -23,7 +23,7 @@ const updateFavicon = () => {
 			statusColor = '#ffffff'
 			break
 	}
-	// console.log({ status, statusColor })
+	// DEBUG: console.log({ status, statusColor })
 	const canvas = document.createElement('canvas')
 	canvas.width = 48 + 12
 	canvas.height = 48 + 12
