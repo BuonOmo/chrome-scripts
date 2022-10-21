@@ -1,0 +1,12 @@
+.pl-c {
+	font-style: italic;
+}
+
+.blob-code-inner {
+	font-family: MonoLisa Custom,MonoLisa,ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+	font-feature-settings: 'ss02' 1;
+}
+
+pre {
+	font-family: MonoLisa Custom,MonoLisa,ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+}
